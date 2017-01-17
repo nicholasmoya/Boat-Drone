@@ -1,0 +1,6 @@
+BoatDrone	KEYWORD1
+DisplayCoordinates	KEYWORD2
+Haversine	KEYWORD2
+GetHeading	KEYWORD2
+PID	KEYWORD2
+DCmotor	KEYWORD2
